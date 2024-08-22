@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning SQL(oracle)
 - 💞️ I’m looking to collaborate on java full stack project.
 - 📫 How to reach me nileshgadilkar2003@gmail.com
-- 😄 Pronouns: ...
 - ⚡Know about my experience : https://drive.google.com/file/d/1-gR6FpHLwubqke3gV3hiWlh9sTmrs-6J/view?usp=sharing
 
 <!---
