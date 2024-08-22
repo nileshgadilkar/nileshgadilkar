@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nileshgadilkar2003@gmail.com
 - 😄 Pronouns: ...
-- ⚡ : https://drive.google.com/drive/home
+- ⚡ : https://drive.google.com/file/d/1-gR6FpHLwubqke3gV3hiWlh9sTmrs-6J/view?usp=sharing
 
 <!---
 nileshgadilkar/nileshgadilkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
