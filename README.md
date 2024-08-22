@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nileshgadilkar
 - 👀 I’m interested in developement
 - 🌱 I’m currently learning full stack web developement
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on java full stack project.
 - 📫 How to reach me nileshgadilkar2003@gmail.com
 - 😄 Pronouns: ...
 - ⚡Know about my experience : https://drive.google.com/file/d/1-gR6FpHLwubqke3gV3hiWlh9sTmrs-6J/view?usp=sharing
