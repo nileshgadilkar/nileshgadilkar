@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nileshgadilkar
 - 👀 I’m interested in developement
-- 🌱 I’m currently learning full stack web developement
+- 🌱 I’m currently learning SQL(oracle)
 - 💞️ I’m looking to collaborate on java full stack project.
 - 📫 How to reach me nileshgadilkar2003@gmail.com
 - 😄 Pronouns: ...
